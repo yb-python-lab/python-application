@@ -11,14 +11,9 @@ __pycache__/
 # archives
 *.zip
 
+# videos
+*.mp4
+
 # build folders
 build/
 dist/
-
-# compiled python
-*.pyd
-*.pyo
-
-# OS files
-.DS_Store
-Thumbs.db
